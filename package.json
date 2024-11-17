@@ -1,0 +1,22 @@
+{
+  "name": "donationsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-native-google-signin/google-signin": "^13.1.0",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "react-dom": "^18.3.1",
+    "react-native-bcrypt": "^2.4.0",
+    "react-native-crypto": "^2.2.0",
+    "react-native-randombytes": "^3.6.1",
+    "react-native-web": "^0.19.13"
+  }
+}
